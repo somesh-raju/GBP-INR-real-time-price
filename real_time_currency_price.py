@@ -5,10 +5,10 @@ import time
 import smtplib
 
 # send mail script
-'''sender = "somesh.d84@gmail.com"
-receivers = ["somesh.d84@gmail.com"]
+'''sender = "sender@gmail.com"
+receivers = ["receiver@gmail.com"]
 
-gmail_uname = 'somesh.d84@gmail.com'
+gmail_uname = 'uname@gmail.com'
 gmail_pwd = 'pwd'
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
